@@ -1,7 +1,8 @@
 ### Hi there 👋
 <div style="text-align: center;"> 
-  <img width="400" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=1800&color=800017&width=535&lines=Hi,+I'm+Vrushabh;I'm+an+Web+Developer;Also+good+in+Java;+I+love+Data+Structures;Checkout+my+Projects;WBU?;let's+Connect!"  alt="Follow your Dreams!"/>
+  <img width="400" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=1800&color=717bad&width=535&lines=Hi,+I'm+Vrushabh;I'm+an+Web+Developer;Tech:+Java+Python+Cpp;+I+love+Data+Structures;and+Algorithms;Checkout+my+Projects;WBU?;let's+Connect!"  alt="Follow your Dreams!"/>
 </div>
+<!--05a5ad, 3a67d6, 6156b0-->
 <!--
 **vrushabhgawas14/vrushabhgawas14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
