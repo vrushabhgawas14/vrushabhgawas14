@@ -33,7 +33,7 @@
 <!--Source SanjaySargam -->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vrushabhgawas14&show_icons=true&locale=en&layout=compact" alt="vrushabhgawas14" /></p>
-
+<!--
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vrushabhgawas14&show_icons=true&locale=en" alt="vrushabhgawas14" /></p>
-
+-->
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vrushabhgawas14&" alt="vrushabhgawas14" /></p>
