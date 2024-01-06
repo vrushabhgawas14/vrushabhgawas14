@@ -16,8 +16,15 @@
 
 - 📫 How to reach me **gawasvrushabh@gmail.com**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/Vrushabhgawas04" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Vrushabhgawas04" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/vrushabhgawas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="VrushabhGawas" height="30" width="40" /></a>
+<a href="https://instagram.com/vrushabh_gawas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Vrushabh_Gawas" height="30" width="40" /></a>
+</p>
 <!--
 **vrushabhgawas14/vrushabhgawas14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+https://www.linkedin.com/in/vrushabh-gawas-69bb67242/
 
 Here are some ideas to get you started:
 
