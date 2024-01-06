@@ -4,9 +4,9 @@
 </div>
 <!--05a5ad, 3a67d6, 6156b0-->
 
+<!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vrushabhgawas14&label=Profile%20views&color=3a67d6&style=flat" alt="vrushabhgawas14" /> </p>
 
-<!--
 <p align="left"> <a href="https://twitter.com/Vrushabhgawas04" target="blank"><img src="https://img.shields.io/twitter/follow/Vrushabhgawas04?logo=twitter&style=for-the-badge" alt="Vrushabhgawas04" /></a> </p>
 -->
 
