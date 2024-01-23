@@ -36,9 +36,9 @@
 </p>
 <!--Source SanjaySargam -->
 <!--
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vrushabhgawas14&show_icons=true&locale=en&layout=compact" alt="vrushabhgawas14" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vrushabhgawas14&show_icons=true&locale=en" alt="vrushabhgawas14" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vrushabhgawas14&" alt="vrushabhgawas14" /></p>
 -->
+
+![stats](https://github-readme-stats.vercel.app/api?username=vrushabhgawas14&show_icons=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34) 
 
 ![stats2](https://github-readme-stats.vercel.app/api/top-langs/?username=vrushabhgawas14&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34)
