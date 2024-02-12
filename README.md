@@ -10,7 +10,7 @@
 <p align="left"> <a href="https://twitter.com/Vrushabhgawas04" target="blank"><img src="https://img.shields.io/twitter/follow/Vrushabhgawas04?logo=twitter&style=for-the-badge" alt="Vrushabhgawas04" /></a> </p>
 -->
 
-- 🌱 I’m currently learning **DSA**
+- 🌱 I’m currently learning **DSA** and **Js**
 
 - 💬 Ask me about **Java , DSA, Python , C++**, C, Js
 
