@@ -13,13 +13,6 @@
 
 - 📫 How to reach me **gawasvrushabh@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/Vrushabhgawas04" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Vrushabhgawas04" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/vrushabhgawas" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="VrushabhGawas" height="30" width="40" /></a>
-<a href="https://instagram.com/vrushabh_gawas" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Vrushabh_Gawas" height="30" width="40" /></a>
-</p>
-
 <h3 align="left">Languages:</h3>
 <p align="left"> 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/> </a>
@@ -45,6 +38,13 @@
 -->
 <a href="https://code.visualstudio.com/"> <img src="https://img.icons8.com/color/2x/visual-studio-code-2019.png" alt="vscode" width="40" height="40" /> </a>
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="BootStrap" width="40" height="40"/> </a>
+</p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/Vrushabhgawas04" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Vrushabhgawas04" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/vrushabhgawas" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="VrushabhGawas" height="30" width="40" /></a>
+<a href="https://instagram.com/vrushabh_gawas" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Vrushabh_Gawas" height="30" width="40" /></a>
 </p>
 
 <!--
