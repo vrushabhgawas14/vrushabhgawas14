@@ -9,7 +9,7 @@
 <p align="left"> <a href="https://twitter.com/Vrushabhgawas04" target="blank"><img src="https://img.shields.io/twitter/follow/Vrushabhgawas04?logo=twitter&style=for-the-badge" alt="Vrushabhgawas04" /></a> </p>
 -->
 
-- 💬 Ask me about **Web Dev, Dsa, Open Source Contribution**
+- 💬 Ask me about **Web Dev, Dsa and Open Source Contribution.**
 - 📫 How to reach me **gawasvrushabh@gmail.com**
 
 <h3 align="left">Languages / Frameworks:</h3>
