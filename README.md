@@ -10,7 +10,7 @@
 -->
 
 - 💬 Ask me about **Web Dev, Dsa and Open Source Contribution.**
-- 📫 How to reach me **gawasvrushabh@gmail.com**
+- 📫 How to reach me **vrushabhgawas14@gmail.com**
 
 <h3 align="left">Languages / Frameworks:</h3>
 <p align="left"> 
