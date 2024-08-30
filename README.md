@@ -3,11 +3,6 @@
   <img width="400" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=1800&color=717bad&width=535&lines=Hi,+I'm+Vrushabh;I'm+a+Web+Developer;Tech:+Java+Python+Js;+I+like+Coding;Checkout+my+Projects;WBU?;let's+Connect!"  alt="Follow your Dreams!"/>
 </div>
 
-<!--
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vrushabhgawas14&label=Profile%20views&color=3a67d6&style=flat" alt="vrushabhgawas14" /> </p>
-
-<p align="left"> <a href="https://twitter.com/Vrushabhgawas04" target="blank"><img src="https://img.shields.io/twitter/follow/Vrushabhgawas04?logo=twitter&style=for-the-badge" alt="Vrushabhgawas04" /></a> </p>
--->
 
 - 💬 Ask me about **Web Dev and Dsa**
 - 📫 How to reach me **gawasvrushabh@gmail.com**
@@ -49,12 +44,19 @@
 <a href="https://instagram.com/vrushabh_gawas" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Vrushabh_Gawas" height="30" width="40" /></a>
 </p>
 
-<!--
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=vrushabhgawas14&theme=tokyonight-duo&border_radius=60" alt="vrushabhgawas14" /></p>
--->
-
+<!-- Profile Views -->
 [![](https://visitcount.itsvg.in/api?id=vrushabhgawas14&icon=5&color=8)](https://github.com/vrushabhgawas14/)
 
-![stats](https://github-readme-stats.vercel.app/api?username=vrushabhgawas14&theme=dark&show_icons=true&title_color=ffffff&text_color=4AB197&icon_color=c9cacc&border_radius=10) 
 
-![stats2](https://github-readme-stats.vercel.app/api/top-langs/?username=vrushabhgawas14&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&border_radius=7)
+
+<!-- Github Stats -->
+<!--
+![stats](https://github-readme-stats.vercel.app/api?username=vrushabhgawas14&theme=dark&show_icons=true&title_color=ffffff&text_color=4AB197&icon_color=c9cacc&border_radius=10) 
+-->
+
+<!-- Most Languages Used -->
+![stats2](https://github-readme-stats.vercel.app/api/top-langs/?username=vrushabhgawas14&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&border_radius=7)  
+
+
+<!-- Streak -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=vrushabhgawas14&theme=tokyonight-duo&border_radius=60" alt="vrushabhgawas14" /></p>
