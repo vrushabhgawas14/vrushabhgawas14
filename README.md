@@ -45,7 +45,7 @@
 </p>
 
 <!-- Profile Views -->
-[![](https://visitcount.itsvg.in/api?id=vrushabhgawas14&icon=5&color=1)](https://github.com/vrushabhgawas14/)
+<!-- [![](https://visitcount.itsvg.in/api?id=vrushabhgawas14&icon=5&color=1)](https://github.com/vrushabhgawas14/) -->
 
 
 
