@@ -1,10 +1,18 @@
-<h1 align="center">Hi 👋</h1>
+<div>
+  <img align="center" src="https://i.imgur.com/4ASafy0.png">
+</div>
+
+<h1 align="center">Hi 👋 Vrushabh Here!</h1>
+<h3 align="center">I am a final-year Information Technology student from India 🎓, passionate about full-stack web development🎯. I enjoy exploring various domains and contributing to open source 💻. </h3>
+
+
+<!-- 
 <div align="center"> 
   <img width="400" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=1800&color=717bad&width=535&lines=Hi,+I'm+Vrushabh;I'm+a+Web+Developer;Tech:+Java+Python+Js;+I+like+Coding;Checkout+my+Projects;WBU?;let's+Connect!"  alt="Follow your Dreams!"/>
 </div>
+-->
 
-
-- 💬 Ask me about **Web Dev and Dsa**
+- 💬 Ask me about **React, Next, TypeScript, Java and Docker**
 - 📫 How to reach me **gawasvrushabh@gmail.com**
 
 <h3 align="left">Languages / Frameworks:</h3>
