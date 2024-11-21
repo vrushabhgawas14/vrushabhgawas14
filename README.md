@@ -65,7 +65,7 @@
 -->
 
 <!-- Most Languages Used -->
-![stats2](https://github-readme-stats.vercel.app/api/top-langs/?username=vrushabhgawas14&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&border_radius=7)  
+![stats2](https://github-readme-stats.vercel.app/api/top-langs/?username=vrushabhgawas14&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact&border_radius=7)  
 
 
 <!-- Streak -->
