@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi 👋 Vrushabh Here!</h1>
-<h3 align="center">I am a final-year Information Technology student from India 🎓, passionate about full-stack web development🎯. I enjoy exploring various domains and contributing to open source 💻. </h3>
+<h3 align="center">Vrushabh is a final-year Information Technology student from India 🎓, passionate Web Developer and Cloud-Native Enthusiast🎯. I enjoy exploring various domains and contributing to open source 💻. </h3>
 
 
 <!-- 
