@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi 👋 Vrushabh Here!</h1>
-<h3 align="center">Vrushabh is a final-year Information Technology student from India 🎓, Full Stack Web Developer and Cloud-Native Enthusiast🎯. I enjoy exploring various domains and solving real world problems💻. </h3>
+<h3 align="center">Vrushabh is a BSC IT 2025 Graduate student from India 🎓. He is a versatile Full Stack Web Developer with hands-on experience in developing scalable web applications 🎯. He do Open Source Contributions, has won 2 Hackathons, attends tech meetups and enjoys building real world applications 💻. </h3>
 <!-- 
 <h3 align="center">Vrushabh is a final-year Information Technology student from India 🎓, Full Stack Web Developer and Cloud-Native Enthusiast🎯. I enjoy exploring various domains and contributing to open source 💻. </h3>
 -->
