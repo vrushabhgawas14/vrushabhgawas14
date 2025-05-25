@@ -1,21 +1,4 @@
 
-
-import { BrowserRouter as Router, Routes, Route, Link } from "react-router-dom"; import { useState } from "react";
-
-function Sidebar() { const menuItems = [ "Dashboard", "Analytics", "Projects", "Team", "Reports", "Calendar", "Settings" ]; return ( <div className="w-64 bg-gray-900 text-white h-screen p-4 space-y-4"> <div className="text-xl font-bold text-blue-400">EnterpriseSuite</div> {menuItems.map((item) => ( <Link to={/${item.toLowerCase()}} key={item} className="block hover:bg-gray-700 px-2 py-2 rounded" > {item} </Link> ))} </div> ); }
-
-function Dashboard() { return ( <div className="p-8 space-y-4"> <h1 className="text-2xl font-semibold">Dashboard</h1> <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4"> <Card title="Total Revenue" value="$84,245" change="8.3%" positive /> <Card title="Active Projects" value="24" change="-2.7%" /> <Card title="Team Members" value="16" change="12.5%" positive /> <Card title="Tasks Complete" value="78%" change="5.2%" positive /> </div> </div> ); }
-
-function Card({ title, value, change, positive = false }) { return ( <div className="bg-white shadow-md p-4 rounded-lg"> <div className="text-gray-600 text-sm">{title}</div> <div className="text-xl font-bold">{value}</div> <div className={text-sm ${positive ? "text-green-600" : "text-red-600"}}>{positive ? "+" : ""}{change} vs last month</div> </div> ); }
-
-function Page({ name }) { return <div className="p-8 text-xl font-medium">{name}</div>; }
-
-export default function App() { return ( <Router> <div className="flex"> <Sidebar /> <div className="flex-1 bg-gray-50 min-h-screen"> <Routes> <Route path="/dashboard" element={<Dashboard />} /> <Route path="/analytics" element={<Page name="Analytics" />} /> <Route path="/projects" element={<Page name="Projects" />} /> <Route path="/team" element={<Page name="Team" />} /> <Route path="/reports" element={<Page name="Reports" />} /> <Route path="/calendar" element={<Page name="Calendar" />} /> <Route path="/settings" element={<Page name="Settings" />} /> <Route path="*" element={<Dashboard />} /> </Routes> </div> </div> </Router> ); }
-
-
-
-
-
 <div>
   <img align="center" src="https://i.imgur.com/4ASafy0.png">
 </div>
