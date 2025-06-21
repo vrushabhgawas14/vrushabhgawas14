@@ -4,19 +4,19 @@
 </div>
 
 <h1 align="center">Hi 👋 Vrushabh Here!</h1>
-<h3 align="center">Vrushabh is a BSC IT 2025 Graduate student from India 🎓. He is a versatile Full Stack Web Developer with hands-on experience in developing scalable web applications 🎯. He do Open Source Contributions, has won 2 Hackathons, attends tech meetups and enjoys building real world applications 💻. </h3>
-<!-- 
-<h3 align="center">Vrushabh is a final-year Information Technology student from India 🎓, Full Stack Web Developer and Cloud-Native Enthusiast🎯. I enjoy exploring various domains and contributing to open source 💻. </h3>
--->
-
+<h3 align="center">Vrushabh is a Software Developer with hands-on experience in developing scalable applications 🎯. He has won 2 Hackathons, attends tech meetups and enjoys building real world applications 💻. </h3>
+<h4 align="center"><i>"From Localhost to live, powering real solutions."</i></h4>
+<hr/>
 <!-- 
 <div align="center"> 
   <img width="400" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=1800&color=717bad&width=535&lines=Hi,+I'm+Vrushabh;I'm+a+Web+Developer;Tech:+Java+Python+Js;+I+like+Coding;Checkout+my+Projects;WBU?;let's+Connect!"  alt="Follow your Dreams!"/>
 </div>
 -->
+<br />
 
-- 💬 Ask me about **React, Next, TypeScript, Java and Docker**
-- 📫 How to reach me **gawasvrushabh@gmail.com**
+- I'm currently working as a Software Developer.
+- 💬 Ask me about **Web Development, Hackathons and Projects**
+- 📫 How to reach me **gawasvrushabh@gmail.com** / <a href="https://linkedin.com/in/vrushabhgawas">LinkedIn</a>
 
 <h3 align="left">Languages / Frameworks:</h3>
 <p align="left"> 
