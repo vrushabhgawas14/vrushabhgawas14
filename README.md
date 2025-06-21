@@ -75,8 +75,16 @@
 -->
 
 <!-- Most Languages Used -->
-![stats2](https://github-readme-stats.vercel.app/api/top-langs/?username=vrushabhgawas14&theme=highcontrast&langs_count=8&hide_border=false&include_all_commits=true&count_private=true&layout=compact&border_radius=7)  
+<div align="center">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vrushabhgawas14&theme=highcontrast&langs_count=8&hide_border=false&include_all_commits=true&count_private=true&layout=compact&border_radius=7" />
 
+  <img align="right" src="https://github-readme-streak-stats.herokuapp.com?user=vrushabhgawas14&theme=tokyonight-duo&border_radius=60" />
+</div>
 
-<!-- Streak -->
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=vrushabhgawas14&theme=tokyonight-duo&border_radius=60" alt="vrushabhgawas14" /></p>
+<br/>
+<table align="center">
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vrushabhgawas14&theme=highcontrast&langs_count=8&hide_border=false&include_all_commits=true&count_private=true&layout=compact&border_radius=7" /></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com?user=vrushabhgawas14&theme=tokyonight-duo&border_radius=60" /></td>
+  </tr>
+</table>
