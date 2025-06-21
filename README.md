@@ -54,14 +54,15 @@
 <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg" alt="Ubuntu" width="60" height="40"/> </a>
 </p>
 
+<!--
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<!--
 <a href="https://twitter.com/Vrushabhgawas04" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Vrushabhgawas04" height="30" width="40" /></a>
--->
+
 <a href="https://linkedin.com/in/vrushabhgawas" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="VrushabhGawas" height="30" width="40" /></a>
 <a href="https://instagram.com/vrushabh_gawas" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Vrushabh_Gawas" height="30" width="40" /></a>
 </p>
+-->
 
 <!-- Profile Views -->
 <!-- [![](https://visitcount.itsvg.in/api?id=vrushabhgawas14&icon=5&color=1)](https://github.com/vrushabhgawas14/) -->
