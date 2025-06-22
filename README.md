@@ -4,7 +4,7 @@
 </div>
 
 <h1 align="center">Hi 👋 Vrushabh Here!</h1>
-<h3 align="center">Vrushabh is a Software Developer with hands-on experience in developing scalable applications 🎯. He has won 2 Hackathons, attends tech meetups and enjoys building real world applications 💻. </h3>
+<h3 align="center">I am Vrushabh Gawas, a Software Developer with hands-on experience in developing scalable enterprise applications 🎯. I have won 2 Hackathons, I attend tech meetups and enjoys building real world applications 💻. </h3>
 <h4 align="center"><i>"From Localhost to live, powering real solutions."</i></h4>
 <hr/>
 <!-- 
