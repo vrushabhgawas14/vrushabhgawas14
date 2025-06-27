@@ -75,10 +75,8 @@
 -->
 
 
-  <!-- Most Languages Used -->
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vrushabhgawas14&theme=highcontrast&langs_count=8&hide_border=false&include_all_commits=true&count_private=true&layout=compact&border_radius=7" />
-  <br/>
-  <br />
+  <!-- Most Languages Used  -->
+  ![stats2](https://github-readme-stats.vercel.app/api/top-langs/?username=vrushabhgawas14&theme=highcontrast&langs_count=8&hide_border=false&include_all_commits=true&count_private=true&layout=compact&border_radius=7)  
   <!-- Streaks -->
   <img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=vrushabhgawas14&theme=tokyonight-duo&border_radius=60" />
 
